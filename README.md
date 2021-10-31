@@ -1,2 +1,3 @@
 # HTML5+CSS3
-This is a practice frontend webpage made with HTML5 and CSS3.
+## DISCLAIMER: THIS IS NOT FOR PROFESSIONAL PURPOSE IT WAS JUST A HANDS-ON PRACTICE TO BRUSHUP HTML CSS. 
+https://gracious-swirles-5264f3.netlify.app/
