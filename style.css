@@ -1,0 +1,374 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #ffffff;
+    margin: 0;
+}
+
+p{
+    color: rgb(145, 145, 145);
+    line-height: 24px;
+    font-size: 16px;
+    font-family: "helvetica neue","Arial", sans-serif;
+
+}
+
+
+header{
+    background-color: black;
+    height: 80px;
+
+}
+
+#header-container{
+    
+    width: 80%;
+    margin: auto;
+
+}
+
+.col-3{
+    width: 30%;
+    float:left;
+}
+
+.menu{
+    margin-top: 32px;
+}
+
+.menu li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: .85em;
+    font-weight: 0;
+    padding-right: 10px;
+    color: #ffffff;
+}
+
+
+.signUpbtn{
+    background-color: #6dc77a;
+    border-radius: 28px;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 26px;
+    margin-top: 20px;
+    display: inline-block;
+    float: right;
+
+}
+
+.logo{
+    margin-top: 20px;
+    border-radius: none;
+}                               /*header section ends here*/
+
+#top-section-main{
+    background-image: url("images/anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
+    height: 740px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    
+}
+#top-section-content{
+    width: 70%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#top-section-content h1{
+    color: #ffffff;
+    font-size: 3em;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 0;
+    padding-top:100px;
+    margin-bottom: 15px ;
+}
+#top-section-content p{
+    color: #ffffff;
+    font-size: 1.2em;
+    font-weight: 100;
+    text-align: center;
+
+}
+.play_button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:50px 0 120px 0;
+}
+
+.main-form{
+}
+
+.main-form h6{
+    color: rgb(201, 195, 195);
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 100;
+
+    text-align: center;
+    
+}
+.main-form input{
+    width: 30%;
+    height: 40px;
+    font-size: large;
+    font-weight: 100;
+    font-family: sans-serif;
+    padding-left: 20px;
+    border: none;
+
+
+}
+.main-form button{
+    background-color: #6dc77a;
+    border: none;
+    font-size: large;
+    padding-left: 15px;
+    width: 30%;
+    height: 42px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #ffffff;
+}                                   /*first section ends here*/
+
+#second-section{
+    padding-top: 100px;
+}
+
+.second-section-title{
+    font-family: sans-serif;
+    text-align: center;
+    width: 70%;
+    font-weight: 100;
+    margin: auto;
+    line-height: 1.5em;
+}
+.second-section-content .col-3{
+    padding: 10px;
+}
+
+.second-section-content{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    padding-top: 100px;
+}
+
+.second-section-content .col-3 img{
+    width: 100%;
+}
+
+.second-section-content .col-3 p{
+    font-size: .9em;
+    letter-spacing: 1px;
+}                                   /*second section ends here*/
+
+.col-2{
+    width: 40% ;
+    float: left;
+    padding: 40px;
+}
+
+#third-section-container{
+    background-color: #f6f8fa;
+    clear: both;
+    padding-top: 40px;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.third-section{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    padding: 40px;
+}
+
+.dietimg{
+    width: 100%;
+}
+
+.text-area{
+    padding-top: 140px;
+    padding-left: 30px;
+}
+.text-area h1{
+    width: 90%;
+    margin: auto;
+    font-weight: 200;
+    line-height: 1.2em;
+}
+    
+.text-area p{
+    font-weight: 100;
+    width: 90%;
+    font-family: sans-serif;
+    margin: auto ;
+    font-size: large;
+    padding-top: 50px;
+    
+}                       /*third section ends here*/
+
+#fourth-section-container{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    clear: both;
+    background-color: #ffffff;      
+}
+
+.fourth-section{
+    padding: 40px;
+}
+
+.bal-diet-title{
+    width: 90%;
+    margin: auto;
+    font-weight: 200;
+    line-height: 1.2em;
+}
+
+.bal-diet-para{
+    font-weight: 100;
+    width: 90%;
+    font-family: sans-serif;
+    margin: auto ;
+    font-size: large;
+    padding-top: 50px;
+}                        /*fourth section ends here*/
+
+.col-1{
+    width: 80%;
+    margin:auto;
+}   
+
+#fifth-section-container{               
+    background-image: url(images/cover-img.jpg);
+    background-size: cover;
+    float: left;
+    width: 100%;
+    background-position: 50% 50%;
+}
+
+.fifth-title{
+    text-align: center;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3.3em;
+    color: #ffffff;
+    padding-top: 100px;
+    margin-top: 0;
+}
+
+.col-1 p{
+    font-size: 1.4em;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 100px;
+    text-shadow: black;
+    margin: 0;
+    padding:30px;
+}
+
+.signupBtn{
+    text-decoration: none;
+    background-color: #6dc77a;
+    color: #ffffff;
+    padding: 20px 70px;
+    font-size: .8em;
+    font-weight: 200;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.signupBtn:hover{
+    background-color: #3ea54d;
+}
+
+.top-margin{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.signup-form{
+    background-color: #f1f1f1;
+    margin-right: 200px;
+    padding: 0px 50px 10px 50px;
+    width: 80%;
+}
+
+.signup-form h4{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    color: black;
+    font-size: 0.9em;
+}
+
+ .signup-form input{
+    border: none;
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: 15px;
+}
+
+.signup-form button{
+    border: none;
+    background-color: #6dc77a;
+    color: #ffffff;
+    /* padding: 20px 40px; */
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    margin-top: 15px;
+    font-size: 15px;
+} 
+
+footer{
+    clear: both;
+    background-color: black;
+    background-image: url(images/footer_img.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+    background-position: 50% 50%;
+}
+
+.social-footer{
+    width: 33%;
+    float: left;
+    height: 40%;
+}
+
+.social-footer:hover{
+    background-color: rgba(77, 8, 8, 0.507);
+}
+
+.center{
+    width: 50px;
+    margin: auto;
+    padding-top: 60px;
+}
+
+.footer-content{
+    margin: auto;   
+    display:inline-block;
+    padding: 10px;
+    align-items: center;
+}
