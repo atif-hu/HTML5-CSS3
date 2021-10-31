@@ -68,7 +68,7 @@ header{
 }                               /*header section ends here*/
 
 #top-section-main{
-    background-image: url("images/anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
+    background-image: url("anastase-maragos-9dzWZQWZMdE-unsplash.jpg");
     height: 740px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -254,7 +254,7 @@ header{
 }   
 
 #fifth-section-container{               
-    background-image: url(images/cover-img.jpg);
+    background-image: url(cover-img.jpg);
     background-size: cover;
     float: left;
     width: 100%;
@@ -343,7 +343,7 @@ header{
 footer{
     clear: both;
     background-color: black;
-    background-image: url(images/footer_img.jpg);
+    background-image: url(footer_img.jpg);
     width: 100%;
     background-size: cover;
     height: 500px;
